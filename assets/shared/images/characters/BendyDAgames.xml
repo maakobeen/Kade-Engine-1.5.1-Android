@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BendyDAgames.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Normal instance 10000" x="5" y="5" width="365" height="349" frameX="0" frameY="-58" frameWidth="379" frameHeight="408"/>
+	<SubTexture name="Down Normal instance 10001" x="380" y="5" width="348" height="372" frameX="-9" frameY="-36" frameWidth="379" frameHeight="408"/>
+	<SubTexture name="Down Normal instance 10002" x="738" y="5" width="344" height="375" frameX="-14" frameY="-33" frameWidth="379" frameHeight="408"/>
+	<SubTexture name="Down Normal instance 10003" x="1092" y="5" width="332" height="383" frameX="-14" frameY="-33" frameWidth="379" frameHeight="408"/>
+	<SubTexture name="Down Oblivion instance 10000" x="5" y="398" width="488" height="474" frameX="0" frameY="-80" frameWidth="483" frameHeight="493"/>
+	<SubTexture name="Idle Normal instance 10000" x="1434" y="5" width="235" height="409" frameX="0" frameY="-37" frameWidth="235" frameHeight="447"/>
+	<SubTexture name="Idle Normal instance 10001" x="503" y="424" width="225" height="427" frameX="0" frameY="-37" frameWidth="235" frameHeight="447"/>
+	<SubTexture name="Idle Normal instance 10002" x="738" y="424" width="224" height="430" frameX="-4" frameY="-20" frameWidth="235" frameHeight="447"/>
+	<SubTexture name="Left Oblivion instance 10000" x="1348" y="978" width="528" height="502" frameX="0" frameY="-34" frameWidth="563" frameHeight="498"/>
+	<SubTexture name="Left instance 10000" x="5" y="978" width="453" height="390" frameX="0" frameY="-27" frameWidth="459" frameHeight="418"/>
+	<SubTexture name="Left instance 10001" x="468" y="978" width="432" height="404" frameX="-25" frameY="-14" frameWidth="459" frameHeight="418"/>
+	<SubTexture name="Left instance 10002" x="910" y="978" width="428" height="407" frameX="-25" frameY="-14" frameWidth="459" frameHeight="418"/>
+	<SubTexture name="Oblivion Bendy instance 10000" x="972" y="424" width="538" height="544" frameX="0" frameY="0" frameWidth="526" frameHeight="543"/>
+	<SubTexture name="Right Normal instance 10000" x="5" y="1490" width="448" height="391" frameX="-4" frameY="-43" frameWidth="476" frameHeight="421"/>
+	<SubTexture name="Right Normal instance 10001" x="463" y="1490" width="448" height="391" frameX="-3" frameY="-30" frameWidth="476" frameHeight="421"/>
+	<SubTexture name="Right Normal instance 10002" x="921" y="1490" width="443" height="392" frameX="-3" frameY="-30" frameWidth="476" frameHeight="421"/>
+	<SubTexture name="Right Oblivion instance 10000" x="1679" y="5" width="542" height="477" frameX="-52" frameY="-70" frameWidth="598" frameHeight="516"/>
+	<SubTexture name="Transformation instance 10000" x="1520" y="492" width="223" height="437" frameX="0" frameY="0" frameWidth="229" frameHeight="427"/>
+	<SubTexture name="Up Normal instance 10000" x="1886" y="492" width="388" height="592" frameX="-10" frameY="0" frameWidth="384" frameHeight="508"/>
+	<SubTexture name="Up Oblivion instance 10000" x="1886" y="1094" width="380" height="599" frameX="-12" frameY="-21" frameWidth="392" frameHeight="591"/>
+</TextureAtlas>
